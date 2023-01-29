@@ -1,6 +1,5 @@
 import locationIcon from "../images/icons/location-icon.svg";
 export default function Jorney(props) {
-  console.log(props);
   return (
     <div className="container">
       <img src={props.imageUrl} alt="" />
